@@ -9,7 +9,7 @@ const HeroSection = () => {
 
     return (
         <div className="relative md:mb-0 mb-32 w-100%">
-            <img src='/src/assets/images/Frame 22.svg' className="h-auto md:h-screen md:w-full w-full object-cover object-center" />
+            <img src='/images/Frame 22.svg' className="h-auto md:h-screen md:w-full w-full object-cover object-center" />
 <nav className="absolute top-0 left-0 right-0 p-6">
                 <nav className="flex justify-between md:p-4 text-white md:font-medium font-light">
                     <h1 className="font-light md:text-xl text-center md:ml-28">UX/UI <br />
@@ -24,12 +24,12 @@ const HeroSection = () => {
                 </nav>
            </nav>
             <div className="absolute md:top-28 md:w-auto w-20 md:left-40 left-5 top-24 right-0 p-6 align-item">
-                 <img src="/src/assets/images/Arrow 1.svg"/>
+                <img src="/MyPortfolio/images/Arrow 1.svg"/>
             </div>
        
             <div className="absolute md:top-52 md:left-52 left-8 top-40 right-0 p-6 align-item">
              
-                <img src='/src/assets/images/PORTFOLIO.svg' className="md:w-auto w-60" />
+                <img src='//MyPortfolio/images/PORTFOLIO.svg' className="md:w-auto w-60" />
                 <p className="md:ml-20 ml-14 p-2 text-white font-agbalumo md:text-3xl">Maryam Badhib</p>
                 <p className="md:ml-44 ml-24 md:p-2 text-white font-bold md:text-xl ">2025</p>
             </div>

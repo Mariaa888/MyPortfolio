@@ -8,10 +8,10 @@ const Contactus = () => {
             </h1>
             <p className="text-center mt-6 text-xl font-semibold">Feel free to reach out for collaborations,<br></br> opportunities! 🚀</p>
         <div className="flex flex-row mt-5 justify-center gap-6 mb-8">
-                <img src="/src/assets/images/skill-icons_gmail-light.svg" className="md:h-10 h-8"></img>
-                <img src="/src/assets/images/Group 9.svg" className="md:h-10 h-8"></img>
-                <img src="/src/assets/images/devicon_behance.svg" className="md:h-10 h-8"></img>
-                <img src="/src/assets/images/ri_github-fill.svg" className="md:h-10 h-8"></img>        </div>
+                <img src="/MyPortfolio/images/skill-icons_gmail-light.svg" className="md:h-10 h-8"></img>
+                <img src="/MyPortfolio/images/Group 9.svg" className="md:h-10 h-8"></img>
+                <img src="/MyPortfolio/images/devicon_behance.svg" className="md:h-10 h-8"></img>
+                <img src="/MyPortfolio/images/ri_github-fill.svg" className="md:h-10 h-8"></img>        </div>
         </div>
     );}
 export default Contactus;

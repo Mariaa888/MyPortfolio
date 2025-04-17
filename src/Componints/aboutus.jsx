@@ -35,39 +35,39 @@ const AboutMe = () => {
                     </text>
                     <div className="grid grid-cols-3 md:grid-cols-4 gap-3 mt-4">
                         <div className="flex flex-col items-center">
-                            <img src="/src/assets/images/skill-icons_html.svg" className="md:h-12 h-9" />
+                            <img src="/MyPortfolio/images/skill-icons_html.svg" className="md:h-12 h-9" />
                             <span className="text-sm mt-2">HTML</span>
                         </div>
                         <div className="flex flex-col items-center">
-                            <img src="/src/assets/images/skill-icons_css.svg" className="md:h-12 h-9" />
+                            <img src="/MyPortfolio/images/skill-icons_css.svg" className="md:h-12 h-9" />
                             <span className="text-sm mt-2">CSS</span>
                         </div>
                         <div className="flex flex-col items-center">
-                            <img src="/src/assets/images/devicon_tailwindcss.svg" className="md:h-12 h-9" />
+                            <img src="/MyPortfolio/images/devicon_tailwindcss.svg" className="md:h-12 h-9" />
                             <span className="text-sm mt-2">CSS Tailwind</span>
                         </div>
                         <div className="flex flex-col items-center">
-                            <img src="/src/assets/images/vscode-icons_file-type-js-official.svg" className="md:h-12 h-9" />
+                            <img src="/MyPortfolio/images/vscode-icons_file-type-js-official.svg" className="md:h-12 h-9" />
                             <span className="text-sm mt-2">JavaScript</span>
                         </div>
                         <div className="flex flex-col items-center">
-                            <img src="/src/assets/images/devicon_react.svg" className="md:h-12 h-9" />
+                            <img src="/images/devicon_react.svg" className="md:h-12 h-9" />
                             <span className="text-sm mt-2">React</span>
                         </div>
                         <div className="flex flex-col items-center">
-                            <img src="/src/assets/images/devicon_reactnative-wordmark.svg" className="md:h-12 h-9" />
+                            <img src="/MyPortfolio/images/devicon_reactnative-wordmark.svg" className="md:h-12 h-9" />
                             <span className="text-sm mt-2">React Native</span>
                         </div>
                         <div className="flex flex-col items-center">
-                            <img src="/src/assets/images/devicon_figma.svg" className="md:h-12 h-9" />
+                            <img src="/MyPortfolio/images/devicon_figma.svg" className="md:h-12 h-9" />
                             <span className="text-sm mt-2">Figma</span>
                         </div>
                         <div className="flex flex-col items-center">
-                            <img src="/src/assets/images/devicon_php.svg" className="md:h-12 h-9" />
+                            <img src="/MyPortfolio/images/devicon_php.svg" className="md:h-12 h-9" />
                             <span className="text-sm mt-2">PHP</span>
                         </div>
                         <div className="flex flex-col items-center">
-                            <img src="/src/assets/images/logos_adobe-xd.svg" className="md:h-12 h-9" />
+                            <img src="/MyPortfolio/images/logos_adobe-xd.svg" className="md:h-12 h-9" />
                             <span className="text-sm mt-2">Adobe XD</span>
                         </div>
                     </div>

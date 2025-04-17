@@ -4,62 +4,62 @@ const projectsData = {
     "Web Design": [
         {
             name: "Crave & Conqure",
-            description: "a Website Desinged by Using HTML, CSS and JavaSript",
-            img: "/src/assets/images/Macbook-Pro-Showcase-Scene-Free-psd-Mockup copy.jpg",
+            description: "a Website Desinged by Using HTML, CSS and JavaSript", 
+            img: "/MyPortfolio/images/Macbook-Pro-Showcase-Scene-Free-psd-Mockup copy.jpg",
             github: "https://github.com/Mariaa888/Crave-Conqure#",
-            view: "/src/assets/images/Frame 125.png"
+            view: "/MyPortfolio/images/Frame 125.png"
         },
         {
             name: "Web Project 2",
             description: "An App Desinged by Using React Native and CSS Tailwind - in progress",
-            img: "/src/assets/images/Frame 12.png",
+            img: "/MyPortfolio/images/Frame 12.png",
             github: "#",
             view: "#"
         },
         {
             name: "My Portfolio(This Website)",
             description: "a Website Desinged by Using react and CSS Tailwind",
-            img: "/src/assets/images/Frame 24.png",
-            github: "#",
-            view: "/src/assets/images/Frame 25.png"
+            img: "/MyPortfolio/images/Frame 24.png",
+            github: "https://github.com/Mariaa888/MyPortfolio/tree/main",
+            view: "/MyPortfolio/images/Frame 25.png"
         },
     ],
     "UX Design": [
         {
             name: "Crave & Conqure",
             description: "Skate Board Store Website",
-            img: "/src/assets/images/Macbook-Pro-Showcase-Scene-Free-psd-Mockup copy.jpg",
+            img: "/MyPortfolio/images/Macbook-Pro-Showcase-Scene-Free-psd-Mockup copy.jpg",
             behance: "https://www.behance.net/gallery/218859967/Carve-Conwquer-Skate-Board-Website",
-            view: ["/src/assets/images/lightmode 1.png", "/src/assets/images/lightmode 18.png", "/src/assets/images/light mode 9.png", "/src/assets/images/light mode.png"]
+            view: ["/MyPortfolio/images/lightmode 1.png", "/MyPortfolio/images/lightmode 18.png", "/MyPortfolio/images/light mode 9.png", "/MyPortfolio/images/light mode.png"]
         },
         {
             name: "ExecVoyager",
             description: "Hotel Mobile App",
-            img: "/src/assets/images/Frame 12.png",
+            img: "/MyPortfolio/images/Frame 12.png",
             behance: "https://www.behance.net/gallery/207117799/ExecVoyager-Hotel-Mobile-App-UXUI#",
-            view: ["/src/assets/images/Frame 38.png", "/src/assets/images/Frame 50.png"]
+            view: ["/MyPortfolio/images/Frame 38.png", "/MyPortfolio/images/Frame 50.png"]
 
         },
         {
             name: "YourLawyer",
             description: "Lawyer Firm Website Landing Page",
-            img: "/src/assets/images/Frame 57.png",
+            img: "/MyPortfolio/images/Frame 57.png",
             behance: "https://www.behance.net/gallery/209460843/YourLawyer-Lawyer-Firm-Website-Landing-Page",
-            view: "/src/assets/images/Frame 30.png"
+            view: "/MyPortfolio/images/Frame 30.png"
         },
     ],
     "Real World Project": [
         {
             name: "Brainiac Training Centre",
             description: "using React Native and Tailwind CSS.",
-            img: "/src/assets/images/Macbook Pro Frame.png",
-            view: ["/src/assets/images/SignIn.svg", "/src/assets/images/img2.jpeg"]
+            img: "/MyPortfolio/images/Macbook Pro Frame.png",
+            view: ["/MyPortfolio/images/SignIn.svg", "/MyPortfolio/images/img2.jpeg"]
         },
         {
             name: "Dashboard",
             description: "UI Dashboard for School System",
-            img: "/src/assets/images/Frame 21.png",
-            view: "/src/assets/images/Dashboar.jpeg"
+            img: "/MyPortfolio/images/Frame 21.png",
+            view: "/MyPortfolio/images/Dashboar.jpeg"
         },
     ],
 };
@@ -87,7 +87,7 @@ export default function Projects() {
                             }}
                         >
                             {activeCategory === category && (
-                                <img src="/src/assets/images/bxs_up-arrow.svg" className="md:mt-1 ml-[-25px] h-6" />
+                                <img src="/MyPortfolio/images/bxs_up-arrow.svg" className="md:mt-1 ml-[-25px] h-6" />
                             )}
                             {category}
                         </button>
