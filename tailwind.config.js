@@ -1,15 +1,12 @@
-module.exports = {
+/** @type {import('tailwindcss').Config} */
+export default {
   content: [
     "./index.html",
-    "./src/**/*.{js,jsx,ts,tsx}",  // تأكد من أن ملفاتك التي تستخدم الفئات موجودة هنا
+    "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {
-      fontFamily: {
-        agbalumo: ['Agbalumo', 'sans-serif'],
-        kavoon: ['Kavoon', 'cursive'],
-    }},
-    
+    extend: {},
   },
   plugins: [],
 }
+

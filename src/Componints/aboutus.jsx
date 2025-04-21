@@ -51,7 +51,7 @@ const AboutMe = () => {
                             <span className="text-sm mt-2">JavaScript</span>
                         </div>
                         <div className="flex flex-col items-center">
-                            <img src="/images/devicon_react.svg" className="md:h-12 h-9" />
+                            <img src="/MyPortfolio/images/devicon_react.svg" className="md:h-12 h-9" />
                             <span className="text-sm mt-2">React</span>
                         </div>
                         <div className="flex flex-col items-center">

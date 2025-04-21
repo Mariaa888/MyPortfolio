@@ -10,11 +10,11 @@ const projectsData = {
             view: "/MyPortfolio/images/Frame 125.png"
         },
         {
-            name: "Web Project 2",
+            name: "ExecVoyager",
             description: "An App Desinged by Using React Native and CSS Tailwind - in progress",
             img: "/MyPortfolio/images/Frame 12.png",
-            github: "#",
-            view: "#"
+            github: "https://github.com/Mariaa888/ExecVoyager",
+            view: "/MyPortfolio/images/Frame 125.png"
         },
         {
             name: "My Portfolio(This Website)",
